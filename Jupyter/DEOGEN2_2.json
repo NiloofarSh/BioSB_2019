@@ -1,0 +1,29 @@
+{
+  "prediction": 0.927375,
+  "features": {
+    "provean": -3.31,
+    "conservation index": 0.22961454043687,
+    "probability": 2.0030685628953,
+    "early folding": -1.593,
+    "log-odd ratio": 1.7917594692281,
+    "interaction": 1,
+    "rvis": -0.271755481,
+    "gdi": 0.58837,
+    "recessiveness": 0.77849,
+    "essentiality": 1,
+    "pathway": 0
+  },
+  "contribution": {
+    "provean": 0.14807462711912,
+    "conservation index": -0.067067377585845,
+    "probability": -0.037919316716986,
+    "early folding": 0.0024153921155141,
+    "log-odd ratio": 0.25393570735043,
+    "interaction": 0.0079703881307524,
+    "rvis": 0.019742243830915,
+    "gdi": 0.0343571916888,
+    "recessiveness": 0.10405744136885,
+    "essentiality": 0.05397585174286,
+    "pathway": -0.003693229465238
+  }
+}
